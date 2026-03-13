@@ -1,0 +1,5 @@
+patient_id,age,fever,cough,diagnosis
+1,25,yes,yes,Flu
+2,40,no,yes,Cold
+3,30,yes,no,Viral Infection
+4,50,no,no,Healthy
